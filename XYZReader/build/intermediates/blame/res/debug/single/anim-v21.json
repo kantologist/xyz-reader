@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/user/Documents/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/Users/user/Documents/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/user/.android/build-cache/3915e11cfec39148463566bc66946a2a82c5decf/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/user/Documents/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/user/.android/build-cache/3915e11cfec39148463566bc66946a2a82c5decf/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

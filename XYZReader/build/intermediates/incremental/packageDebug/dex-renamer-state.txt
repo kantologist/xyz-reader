@@ -1,0 +1,7 @@
+#Thu Nov 16 04:45:37 WAT 2017
+base.0=/Users/user/Documents/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ee490bdd5ddd91b11cf9c1186757d3d3d205000
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/user/Documents/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_49a9e155139e268bb5ade6de3fd271bf5c60d1ca/classes.dex
+base.1=/Users/user/Documents/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_49a9e155139e268bb5ade6de3fd271bf5c60d1ca
+file.0=/Users/user/Documents/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3ee490bdd5ddd91b11cf9c1186757d3d3d205000/classes.dex
